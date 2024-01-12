@@ -1,1 +1,5 @@
-# clone_Netflix
+- **UIKit**
+- **URLSession**
+- **Navigation**
+- **Storyboard**
+- **AVFoundation/AVKit**
